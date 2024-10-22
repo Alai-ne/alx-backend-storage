@@ -1,0 +1,2 @@
+// Lists all documents with name="MongoDB" in the collection school
+db.school.find({name:"MongoDB"})
